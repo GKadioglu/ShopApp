@@ -1,0 +1,6 @@
+@shopapp.webapi_HostAddress = http://localhost:5029
+
+GET {{shopapp.webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
